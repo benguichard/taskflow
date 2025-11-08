@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Submit Q4 budget report to Finance",
+    "description": "Prepare financial forecasts for the expansion project. Include cost projections for infrastructure and maintenance.",
+    "dueDate": "2025-11-10",
+    "completed": true,
+    "priority": "urgent_important",
+    "weight": 5,
+    "tags": ["finance", "reporting"],
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "title": "Schedule team performance reviews",
+    "description": "Annual reviews with direct reports. Discuss career progression, achievements, and development opportunities.",
+    "dueDate": "2025-11-12",
+    "completed": false,
+    "priority": "urgent_important",
+    "weight": 4,
+    "tags": ["hr", "management"],
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "title": "Fix production video conferencing issues",
+    "description": "System keeps dropping connections during meetings. Escalate to IT team for urgent resolution.",
+    "dueDate": "2025-11-09",
+    "completed": false,
+    "priority": "urgent_important",
+    "weight": 5,
+    "tags": ["it", "infrastructure", "urgent"],
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "title": "Order catering for team offsite",
+    "description": "Contact catering service for strategy meeting. Need lunch for 12 people plus dietary restrictions.",
+    "dueDate": "2025-11-10",
+    "completed": false,
+    "priority": "urgent_not_important",
+    "weight": 2,
+    "tags": ["admin", "catering", "events"],
+    "deleted": false
+  },
+  {
+    "id": 5,
+    "title": "Research competitor market analysis",
+    "description": "Analyze competitor positioning and market share. Focus on their product capabilities and distribution strategy.",
+    "dueDate": "2025-11-20",
+    "completed": false,
+    "priority": "not_urgent_important",
+    "weight": 4,
+    "tags": ["research", "strategy", "competitive-intel"],
+    "deleted": false
+  },
+  {
+    "id": 6,
+    "title": "Weekly team standup meeting",
+    "description": "Review project progress, discuss blockers, assign action items for current sprint.",
+    "dueDate": "2025-11-11",
+    "completed": false,
+    "priority": "urgent_not_important",
+    "weight": 2,
+    "tags": ["team", "meeting", "recurring"],
+    "deleted": false
+  },
+  {
+    "id": 7,
+    "title": "Coffee chat with DevOps about cloud migration",
+    "description": "Discuss approaches for containerization and multi-region architecture. Learn from their recent experience.",
+    "dueDate": "2025-11-14",
+    "completed": false,
+    "priority": "not_urgent_not_important",
+    "weight": 1,
+    "tags": ["networking", "learning", "devops"],
+    "deleted": false
+  },
+  {
+    "id": 8,
+    "title": "Organize Q1 team building workshop",
+    "description": "Cross-functional session to improve collaboration and communication. Book venue and coordinate schedules.",
+    "dueDate": "2025-11-18",
+    "completed": false,
+    "priority": "not_urgent_important",
+    "weight": 3,
+    "tags": ["team", "events", "culture"],
+    "deleted": false
+  },
+  {
+    "id": 9,
+    "title": "Review and refactor legacy authentication code",
+    "description": "Update outdated authentication flow to modern standards. Improve security and maintainability.",
+    "dueDate": "2025-11-25",
+    "completed": false,
+    "priority": "not_urgent_important",
+    "weight": 3,
+    "tags": ["technical-debt", "security", "refactoring"],
+    "deleted": false
+  },
+  {
+    "id": 10,
+    "title": "Read industry research paper on ML optimization",
+    "description": "Deep dive into new techniques for model performance. Could apply to current projects.",
+    "dueDate": "2025-11-22",
+    "completed": false,
+    "priority": "not_urgent_not_important",
+    "weight": 1,
+    "tags": ["learning", "research", "ml"],
+    "deleted": false
+  },
+  {
+    "id": 11,
+    "title": "Prepare slides for client presentation",
+    "description": "Create compelling deck showcasing project results and ROI. Include executive summary and technical details.",
+    "dueDate": "2025-11-13",
+    "completed": false,
+    "priority": "urgent_important",
+    "weight": 5,
+    "tags": ["presentation", "client", "sales"],
+    "deleted": false
+  },
+  {
+    "id": 12,
+    "title": "Update company newsletter content",
+    "description": "Write article about recent product launch and team achievements. Due for next month's edition.",
+    "dueDate": "2025-11-28",
+    "completed": false,
+    "priority": "not_urgent_not_important",
+    "weight": 1,
+    "tags": ["communication", "marketing"],
+    "deleted": false
+  }
+]
